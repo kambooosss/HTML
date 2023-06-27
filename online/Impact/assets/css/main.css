@@ -1369,6 +1369,10 @@ section {
   text-align: center;
   align-self: center;
   align-items: center;
+  
+}
+.row gy-4{
+  
 }
 .team .member {
   text-align: center;
@@ -1382,6 +1386,7 @@ section {
 .team .member img {
   border-radius: 10px;
   overflow: hidden;
+  padding: auto;
   /* align-items: center; */
 }
 
