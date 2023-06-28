@@ -2678,3 +2678,7 @@ section {
 .footer .credits a {
   color: #fff;
 }
+.sample-page .container .btn
+{
+  background-color: #008374;
+}
