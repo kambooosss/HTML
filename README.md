@@ -1,0 +1,1 @@
+# This website is to help Students of our college(PTU) by providing valuable resources like Notes, Previous Year question papers, a Q&A section for asking their doubts with seniors, and information about internships and placements.
